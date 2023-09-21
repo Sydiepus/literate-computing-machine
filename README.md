@@ -8,7 +8,7 @@ Image      | Background removed
 
 
 
-Install tensorflow : 
+Install dependencies : 
 
 ``` pip install tensorflow numpy Pillow ```
 
