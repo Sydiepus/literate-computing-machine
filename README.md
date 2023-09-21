@@ -6,14 +6,21 @@ Image      | Background removed
 ![](test_imgs/photo_2023-09-21_19-52-52.jpg)  | ![](test_imgs/photo_2023-09-21_19-52-52_back_removed.png)
 
 ### How to use
-- clone repo `git clone https://github.com/Sydiepus/literate-computing-machine.git`
+- clone repo (201.95 MiB) :
+```
+git clone https://github.com/Sydiepus/literate-computing-machine.git
+```
 - Install dependencies : 
 
-``` pip install tensorflow numpy Pillow ```
+``` 
+pip install tensorflow numpy Pillow
+```
 
-Run `rm_back.py`
+Run `rm_back.py` :
 
-``` python rm_back.py ```
+``` 
+python rm_back.py
+```
 
 This produces an image with a black background,
 It will infinitely ask for an image path, predict and save the output image to same path with `_back_removed` added to the ended of the image name.
