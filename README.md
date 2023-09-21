@@ -45,7 +45,9 @@ Many versions of the models exists the best one is : `DUTS_set_model/DUTS_set_un
 A jupyter notebook for each model is available
 In order to get started install requirements-model.txt, 
 
-``` pip install -r requirements-model.txt```
+``` 
+pip install -r requirements-model.txt
+```
 
 then you can run all the commands in the notebook it will download and extract the dataset and start training the model.
 
