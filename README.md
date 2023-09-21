@@ -14,6 +14,7 @@ Image      | Background removed
 Run `rm_back.py`
 
 ``` python rm_back.py ```
+
 This produces an image with a black background,
 It will infinitely ask for an image path, predict and save the output image to same path with `_back_removed` added to the ended of the image name.
 
