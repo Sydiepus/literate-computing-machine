@@ -5,10 +5,9 @@ Image      | Background removed
 :---------:|:---------:
 ![](test_imgs/photo_2023-09-21_19-52-52.jpg)  | ![](test_imgs/photo_2023-09-21_19-52-52_back_removed.png)
 
-
-
-
-Install dependencies : 
+### How to use
+- clone repo `git clone https://github.com/Sydiepus/literate-computing-machine.git`
+- Install dependencies : 
 
 ``` pip install tensorflow numpy Pillow ```
 
