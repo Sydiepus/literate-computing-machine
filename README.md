@@ -6,7 +6,7 @@ Image      | Background removed
 ![](test_imgs/photo_2023-09-21_19-52-52.jpg)  | ![](test_imgs/photo_2023-09-21_19-52-52_back_removed.png)
 
 ### How to use
-You can clone the repo which is 201.95 MiB in size or download the moedel from google drive 90.9MB in size.
+You can clone the repo which is 201.95 MiB in size or download the model from google drive 90.9MB in size.
 
 1. clone repo (201.95 MiB) and move into the cloned repo:
 ```
