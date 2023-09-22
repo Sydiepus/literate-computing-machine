@@ -6,10 +6,22 @@ Image      | Background removed
 ![](test_imgs/photo_2023-09-21_19-52-52.jpg)  | ![](test_imgs/photo_2023-09-21_19-52-52_back_removed.png)
 
 ### How to use
-- clone repo (201.95 MiB) :
+You can clone the repo which is 201.95 MiB in size or download the moedel from google drive 90.9MB in size.
+
+1. clone repo (201.95 MiB) and move into the cloned repo:
 ```
 git clone https://github.com/Sydiepus/literate-computing-machine.git
+cd literate-computing-machine
 ```
+- You can proceed to install the dependencies.
+2. If you don't want to clone the repo, download the model from [here](https://drive.google.com/file/d/1Ed_m1x7k0m0rWpP9zBugVB22ySGPDVoe/view?usp=sharing) and place it in a folder named `DUTS_set_model`, then download the script
+  ```
+  wget https://github.com/Sydiepus/literate-computing-machine/raw/main/rm_back.py
+  ```
+  - The script should be in the same place as the folder caintaining the model not inside it.
+      - This is the path of the model that the script expect : `./DUTS_set_model/DUTS_set_unet_semantic_segmentation_512_512_+4_epochs.keras`
+  - You can proceed to install the dependencies.
+
 - Install dependencies : 
 
 ``` 
